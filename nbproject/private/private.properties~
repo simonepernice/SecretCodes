@@ -1,0 +1,10 @@
+#Sat Oct 25 23:02:36 CEST 2008
+deployment.number=0.0.84
+config.active=Bluetooth
+netbeans.user=/home/simone/.netbeans/6.1
+javadoc.preview=true
+file.reference.Java-SecretNotes=/home/simone/java/SecretNotes
+app-version.autoincrement=true
+file.reference.cldc_classes.zip=/home/simone/java/SecretNotes/lib/cldc_classes.zip
+selected.configurations=\ ,Bluetooth,Debug
+deployment.counter=85
